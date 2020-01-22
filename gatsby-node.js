@@ -9,7 +9,7 @@ exports.createPages = ({ graphql, actions }) => {
 
   createRedirect({
     fromPath: 'https://roguesherlock.netlify.com/*',
-    toPath: 'https://roguesherlock.netlify.com/*',
+    toPath: 'https://roguesherlock.com/*',
     statusCode: 301,
   });
 
