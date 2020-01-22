@@ -5,7 +5,13 @@ const { createFilePath } = require('gatsby-source-filesystem');
 const { supportedLanguages } = require('./i18n');
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
+
+  createRedirect({
+    fromPath: 'https://roguesherlock.netlify.com/*',
+    toPath: 'https://roguesherlock.netlify.com/*',
+    statusCode: 301,
+  });
 
   return new Promise((resolve, reject) => {
     const blogPost = path.resolve('./src/templates/blog-post.js');

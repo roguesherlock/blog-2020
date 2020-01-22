@@ -1,7 +1,9 @@
 {
   "name": "roguesherlock",
   "private": true,
-  "engines": {"node": "12.x"},
+  "engines": {
+    "node": "12.x"
+  },
   "description": "The Game is On",
   "version": "1.0.0",
   "author": "akash",
@@ -16,6 +18,7 @@
     "gatsby-plugin-google-analytics": "^2.0.5",
     "gatsby-plugin-i18n": "^0.4.2",
     "gatsby-plugin-manifest": "^2.0.5",
+    "gatsby-plugin-netlify": "^2.1.31",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sharp": "^2.0.16",
