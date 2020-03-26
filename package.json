@@ -2,7 +2,7 @@
   "name": "roguesherlock",
   "private": true,
   "engines": {
-    "node": "12.x"
+    "node": ">12.x"
   },
   "description": "The Game is On",
   "version": "1.0.0",
