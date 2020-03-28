@@ -35,6 +35,8 @@ The observation that humans are overly optimistic when predicting success of the
 
 *Corollary*: Be really pessimistic when estimating. Assume the average case will be slightly worse than the hypothetical worst case.
 
+*Note*: While I agree with the general conlusion of planning fallacy, I tend to disagree with the reasoning for the same. It's not that humans are bad at esitmating their undertakings, it's just that we have more nonlinearities in today's world (more on this later).
+
 <br/>
 
 
