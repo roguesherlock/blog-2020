@@ -4,8 +4,6 @@ date: '2020-06-05'
 spoiler: let's talk about why you're unhappy
 ---
 
-What is Happiness ?
-
 I have been thinking about this for quite some time and I’d like to share some of my thoughts. Now, before I lay down my thoughts I'd like to state that everyone has/should have their own definition of Happiness.
 
 I think it's a very tricky question to answer directly so I'd invert the question and try to answer what is unhappiness. And maybe then we'll figure out what is happiness. More specifically, I want to dwell on what causes unhappiness because we all have a general idea of what is unhappiness.
