@@ -18,7 +18,7 @@ import {
 
 const GITHUB_USERNAME = 'roguesherlock';
 const GITHUB_REPO_NAME = 'blog';
-const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+const systemFont = `"Open Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
 

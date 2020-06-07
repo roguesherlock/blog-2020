@@ -15,17 +15,17 @@ class Bio extends React.Component {
           src={profilePic}
           alt={`akash`}
           style={{
+            objectFit: 'cover',
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
-            width: rhythm(2),
-            height: rhythm(2),
+            width: rhythm(3),
+            height: rhythm(3),
             borderRadius: '50%',
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Personal blog by{' '}
-          <a href="https://mobile.twitter.com/roguesherlock">akash</a>. <br />I
-          create stuff.
+          <a href="https://mobile.twitter.com/roguesherlock">Akash's</a> Brain
+          farts. <br />I don't know what deep metaphor I'm looking for here.
         </p>
       </div>
     );
