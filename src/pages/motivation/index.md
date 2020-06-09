@@ -11,7 +11,7 @@ I’ve always struggled with motivation. So, I did some digging.
 
 ## Do you even lack motivation ?
 
-First thing I would like to point out is that pathology is rare. If you look at actual diseases or things that are broken within people, those tend to be rare. For example, not everyone has cancer, it’s a rare thing. Generally speaking, the body works the way it’s supposed to. So, If the entire generation of people are facing a common shared problem which is that you know we all lack motivation, it’s not that we lack motivation, it’s not actually a problem. It’s actually the how we are wired. Like, if everyone shares a particular thing, like everyone can use their left and right hand, it’s a common thing with most people, then that’s sort how we’re designed.
+First thing I would like to point out is that pathology is rare. If you look at actual diseases or things that are broken within people, those tend to be rare. For example, not everyone has cancer, it’s a rare thing. Generally speaking, the body works the way it’s supposed to. So, If the entire generation of people are facing a common shared problem which is that you know we all lack motivation, it’s not that we lack motivation, it’s not actually a problem. It’s actually how we are wired. Like, if everyone shares a particular thing, like everyone can use their left and right hand, it’s a common thing with most people, then that’s sort of how we’re designed.
 
 Most people are highly motivated, but usually not in the direction they'd like to be. "I have no motivation to do anything. I just want to play video games all day" => I am highly motivated to play video games. So your motivation is just in the wrong direction.
 
@@ -69,3 +69,5 @@ P.S.
 
 We know that surviving failure leads to increase in confidence, which then leads to increase in motivation, and that leads to success. So,
 Failure -> Success 🤷‍♂️
+
+

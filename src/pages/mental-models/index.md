@@ -1,10 +1,10 @@
 ---
 title: Mental Models
 date: '2020-03-26'
-spoiler: How you see the world?
+spoiler: How do you see the world?
 ---
 
-Think of mental models as like set of lenses to view the world. They’re extremely useful to reason about and look at seemly intractable problems. They’re also easy to forget in the moment. And more importantly, not all model are effective against all sort of problems. Knowing which mental model to apply to a particular set of problem is still an art that you get better with practice. So, try and use them as a sort of checklist when dealing with a complex problem. And finally, here is non-exhaustive list of some of the mental models that I find useful (I’ll keep this list updated as I find more)
+Think of mental models as a set of lenses to view the world. They’re extremely useful to reason about and look at seemingly intractable problems. They’re also easy to forget in the moment. And more importantly, not all models are effective against all sorts of problems. Knowing which mental model to apply to a particular set of problems is still an art that you get better with practice. So, try and use them as a sort of checklist when dealing with a complex problem. And finally, here is non-exhaustive list of some of the mental models that I find useful (I’ll keep this list updated as I find more)
 
 
 <br/>
@@ -35,7 +35,7 @@ The observation that humans are overly optimistic when predicting success of the
 
 *Corollary*: Be really pessimistic when estimating. Assume the average case will be slightly worse than the hypothetical worst case.
 
-*Note*: While I agree with the general conlusion of planning fallacy, I tend to disagree with the reasoning for the same. It's not that humans are bad at esitmating their undertakings, it's just that we have more nonlinearities in today's world (more on this later).
+*Note*: While I agree with the general conclusion of planning fallacy, I tend to disagree with the reasoning for the same. It's not that humans are bad at estimating their undertakings, it's just that we have more nonlinearities in today's world (more on this later).
 
 <br/>
 
@@ -60,7 +60,7 @@ In daily life many important decisions are not that expensive/easily reversible.
 
 
 #### Strategy and tactics
-Usually decisions tend to fall into one of those two categories. Strategic decisions have long-term, gradual, and subtle effects. They're like an overarching plans or set of goals. And changing strategies is like trying to turn around a ship—it can be done but not quickly. Whereas, Tactical decisions are encapsulated into outcomes that have relatively quick binary resolutions (success or failure).
+Usually decisions tend to fall into one of those two categories. Strategic decisions have long-term, gradual, and subtle effects. They're like overarching plans or sets of goals. And changing strategies is like trying to turn around a ship—it can be done but not quickly. Whereas, Tactical decisions are encapsulated into outcomes that have relatively quick binary resolutions (success or failure).
 
 *Example*: Picking a programming language is a strategic decision whilst choosing how to learn that programming language is more like a tactical decision.
 
@@ -80,9 +80,9 @@ Basically you reason complicated problems by separating the underlying ideas or 
 
 
 #### Second-Order Thinking
-It's a process of not only considering the immediate consequences of your actions, but the subsequent effects of those actions as well. This puts you ahead of most of people and possibly save a disaster.
+It's a process of not only considering the immediate consequences of your actions, but the subsequent effects of those actions as well. This puts you ahead of most people and possibly saves a disaster.
 
-*Example*: If suddently Electronic self-driving vehicles take over, there will be like a 50% reduction in gas oil consumption (first order thinking). Now, if you take a step further and think about the second order consequences of it, you can say that it might affect tobacco industry a lot as well, as half of US tobacco sales happens at gas stations, and there are meaningful indications that removing distribution removes consumption.
+*Example*: If suddenly Electronic self-driving vehicles take over, there will be like a 50% reduction in gas oil consumption (first order thinking). Now, if you take a step further and think about the second order consequences of it, you can say that it might affect the tobacco industry a lot as well, as half of US tobacco sales happen at gas stations, and there are meaningful indications that removing distribution removes consumption.
 
 <br/>
 
@@ -94,7 +94,7 @@ Essentially using probability theory to estimate the likelihood of any specific 
 
 
 #### Bayesian Updating
-The Bayesian method is a method of thought whereby one takes into account all prior relevant probabilities and then incrementally updates them as you get newer information. This is one of the best ways to improve our accuracy of our decisions in a non-deterministic world and one of the easiest thing to overlook.
+The Bayesian method is a method of thought whereby one takes into account all prior relevant probabilities and then incrementally updates them as you get newer information. This is one of the best ways to improve our accuracy of our decisions in a non-deterministic world and one of the easiest things to overlook.
 
 <br/>
 
@@ -122,7 +122,7 @@ In a normally distributed system, long deviations from the average will tend to 
 
 
 #### 80/20 Rule
-Vifredo Pareto observed that small amount of some phenomenon causes disproportionately large effect.
+Vifredo Pareto observed that a small amount of some phenomenon causes disproportionately large effects.
 
 *Corollary*: 20% of the effort can give you 80% of the result.
 
@@ -133,7 +133,7 @@ Vifredo Pareto observed that small amount of some phenomenon causes disproportio
 #### Marginal utility
 The change in utility from the change in consumption of a good. Marginal utility usually diminishes with increase in consumption.
 
-*Example*: The first iPhone will be a significantly more impactful in your life than the second one.
+*Example*: The first iPhone will be significantly more impactful in your life than the second one.
 
 <br/>
 
@@ -186,7 +186,7 @@ The advantages due to size or scale of operation, where cost per unit decreases 
 #### Chaos Dynamics (Butterfly Effect)/ (Sensitivity to Initial Conditions)
 It's this notion that small changes in initial conditions have massive downstream effects.
 
-*Corollary*: Some aspects of physical systems or social systems are fundamental unpredictable.
+*Corollary*: Some aspects of physical systems or social systems are fundamentally unpredictable.
 
 <br/>
 
@@ -194,7 +194,7 @@ It's this notion that small changes in initial conditions have massive downstrea
 #### Via Negativa – Omission/Removal/Avoidance of Harm
 In many systems, improvement is at best, or at times only, a result of removing bad elements rather than of adding good elements.
 
-*Example*: Diet is more effective at loosing weight than working out.
+*Example*: Diet is more effective at losing weight than working out.
 
 <br/>
 
@@ -210,7 +210,7 @@ The notion that if a non-perishable object or idea has lasted for X number of ye
 
 
 #### Hindsight Bias
-We tend to connect dots backwards and form a narrative stating that we knew it all along. But we tend to forget that we simply didn't have the information available to us in that moment. It's nearly impossible to turn back the clock mentally.
+We tend to connect dots backwards and form a narrative stating that we knew it all along. But we tend to forget that we simply didn't have the information available to us at that moment. It's nearly impossible to turn back the clock mentally.
 
 <br/>
 
@@ -219,3 +219,4 @@ We tend to connect dots backwards and form a narrative stating that we knew it a
 Doing one thing means not being able to do another. We live in a world of trade-offs, and the concept of opportunity cost rules all.
 
 <br/>
+
