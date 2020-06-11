@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'The Game is On!',
     author: 'akash',
-    description: 'Chronicling my brain farts',
+    description: 'Akashs musings',
     siteUrl: 'https://roguesherlock.com',
     social: {
       twitter: '@roguesherlock',
@@ -112,8 +112,8 @@ module.exports = {
                     node {
                       excerpt(pruneLength: 250)
                       html
-                      fields { 
-                        slug   
+                      fields {
+                        slug
                       }
                       frontmatter {
                         title
