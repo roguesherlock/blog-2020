@@ -8,7 +8,7 @@ There seems to be this online trend towards writing and there have been hundreds
 At the same time, it seems to me that there’s one thing missing. They all usually talk about two forms of writing, fiction and nonfiction.
 
 
-![there's another](/images/there-is-another.jpg "There is another")
+![there's another](./there-is-another.jpg "There is another")
 
 
 The third form of writing I’m talking about is Journaling. More specifically stream-of-consciousness Journaling. It is hands down the best habit I’ve picked up last year! Essentially it’s the process of writing down your thoughts. It’s like a brain dump. I believe it’s one of the most important forms of writing you can do to improve yourself. Not only does it have all the benefits of the previous two, but more! Like,
