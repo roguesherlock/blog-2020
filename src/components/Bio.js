@@ -24,8 +24,8 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          <a href="/about-me/">Akash's</a> musings. <br />I don't know what deep
-          metaphor I'm looking for here.
+          <a href="/about-me/">Akash's</a> musings. <br />
+          Figuring out life, one essay at a time.
         </p>
       </div>
     );
